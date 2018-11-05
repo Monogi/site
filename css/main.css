@@ -1,3 +1,190 @@
 @charset "utf-8";
 /* CSS Document */
+.top {
+	background-color:#5454f6;
+    position: fixed;
+    top: 0;
+	left: 0;
+    width: 100%;
+    height: 50pt;
+    -webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 1000;
+	cursor:col-resize;
+}
+.logo{
+position: fixed;
+	left: auto;
+	right: auto;
+	top: 0;
+	background-position: center;
+	z-index: 990;
+}
+.t3{
+	z-index: 10;
+/*	background-image: url(../images/telegram.png);*/
+	position:absolute;
+	top: 235pt ;
+	left: 35%;
+	width:135 ;
+	height:135 ;
+}
+
+.body {
+	z-index: 0;
+    position: fixed;
+	background-image: url(../images/Fon2.png);
+	background-position: center;
+	left: 0;
+	width: 100vw;
+	height: 100vw;
+    background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.k1 {
+
+	background-color:#1e62b1;
+    position:absolute;
+	top: 70pt ;
+	left: 0;
+	width: 100%;
+    height: 45pt ;
+	-webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 1;
+    }
+
+.online{
+	background-position: center;
+	left: 37vw;
+	right: auto;
+/*	object-position: center;*/
+	position: absolute;
+	top:70pt;
+/*	background-position: center;*/
+/*
+	width: 100vw;
+	height: 100vw;
+*/
+	z-index: 999;
+}
+
+
+
+.k2 {
+
+	background-color:#1e62b1;
+    position:absolute;
+	top: 150pt ;
+	left: 0;
+	width: 100%;
+    height: 45pt ;
+	-webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 2;
+    }
+.price{
+	background-position: center;
+	left: 37vw;
+	right: auto;
+/*	object-position: center;*/
+	position: absolute;
+	top:150pt;
+/*	background-position: center;*/
+/*
+	width: 100vw;
+	height: 100vw;
+*/
+	z-index: 998;
+	
+}
+.k3 {
+
+	background-color:#1e62b1;
+    position:absolute;
+	top: 230pt ;
+	left: 0;
+	width: 100%;
+    height: 45pt ;
+	-webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 3;
+    }
+.telegram{
+	background-position: center;
+	left: 37vw;
+	right: auto;
+/*	object-position: center;*/
+	position: absolute;
+	top:230pt;
+/*	background-position: center;*/
+/*
+	width: 100vw;
+	height: 100vw;
+*/
+	z-index: 997;
+}
+
+.kvk{
+	background-position: center;
+	left: 37vw;
+	right: auto;
+/*	object-position: center;*/
+	position: absolute;
+	top:315pt;
+/*	background-position: center;*/
+/*
+	width: 100vw;
+	height: 100vw;
+*/
+	z-index: 997;
+
+}
+.k4 {
+
+	background-color:#1e62b1;
+    position:absolute;
+	top: 310pt ;
+	left: 0;
+	width: 100%;
+    height: 45pt ;
+	-webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 4;
+    }
+
+.k10 {
+
+	background-color:#5454f6;
+    position:absolute;
+	top: 500pt ;
+	left: 0;
+	width: 100%;
+    height: 45pt ;
+	-webkit-box-shadow: rgba(0,0,0,.12) 0 1px 6px, rgba(0,0,0,.12) 0 1px 4px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.12);
+    z-index: 4;
+    }
+.k10:hover{background-color: azure;}
+	
+
+
+
+/*online*/
+
+.caroUsel-caption{top: 100pt;}
+.text{
+	width: 800;
+	height: 600;
+	top: 500;
+/*	background-image: url(../images/parallax.png);*/
+/*	position: fixed;*/
+/*	background-position: center;*/
+	z-index: 788;
+/*	background-attachment: fixed;*/
+/*	background-size: cover;*/
+/*	background-repeat: no-repeat;*/
+}
 

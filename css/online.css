@@ -1,0 +1,56 @@
+ @charset "UTF-8";
+/*CSS Document */
+.info .telephone{border: 0;	background-color:aliceblue;}
+
+.telephone{
+	border: 0;	background-color:aliceblue;
+	z-index: 40;
+	position:absolute;
+	top: 100pt ;
+	left: 10%;
+	width:1350 ;
+	height:1350 ;
+	}
+.telephone:hover{background-color: white;}
+
+
+.first-name{
+	border: 0;	background-color:aliceblue;
+	z-index: 42;
+	position:absolute;
+	top: 150pt ;
+	left: 10%;}
+.first-name:hover{
+	background-color: white;
+}
+
+.adress{
+	border: 0;	background-color:aliceblue;
+	z-index: 403;
+	position:absolute;
+	top: 200pt ;
+	left: 10%;}
+.adress:hover{background-color: white;}
+.time{border: 0;	background-color:aliceblue;
+	z-index: 44;
+	position:absolute;
+	top: 250pt ;
+	left: 10%;}
+
+.time:hover{background-color: white;}
+.problem{border: 0;	background-color:aliceblue;
+	z-index: 41;
+	position: absolute;
+	top:100pt;
+	left:248pt;}
+.problem:hover{background-color: white;}
+
+.go-key{
+	border: 0;	background-color:aliceblue;
+	z-index: 41;
+	position: absolute;
+	top:175pt;
+	left:600pt;
+	
+}
+.go-key:hover{backgrond-color:blue; }
